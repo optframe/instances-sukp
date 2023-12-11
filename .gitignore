@@ -1,0 +1,9 @@
+.devcontainer/
+build/
+readSUKP
+CMakeLists.txt
+sukp2019
+SUKP/
+newer-*
+Data-SUKP/
+.cache/
